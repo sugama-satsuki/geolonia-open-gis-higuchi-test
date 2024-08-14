@@ -14,6 +14,12 @@
 
 // Your code starts here.
 
+// TODO：公開画面でテーマ図の切り替えができるPOCを作成する
+// TODO：公開画面でメニューの表示をするPOCの作成
+// TODO：管理画面でテーマ図の設定ができるPOCを作成
+// TODO：管理画面で以下UIを実装する
+//   https://www.figma.com/design/RcLd9GdV4BxCRgBhHCPMMC/%E7%AE%A1%E7%90%86%E7%94%BB%E9%9D%A2?node-id=771-3304&t=U30wPN5NxFYkZmOU-0
+
 if ( ! defined( 'ABSPATH' ) ) {
 	die( 'Invalid request.' );
 }
